@@ -1,2 +1,0 @@
-# weeh
-weeh app website
